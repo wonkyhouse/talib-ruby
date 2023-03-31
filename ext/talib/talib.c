@@ -1,5 +1,5 @@
 #include "ruby.h"
-#include "ta_abstract.h"
+#include <ta-lib/ta_abstract.h>
 
 static VALUE rb_mTaLib;
 static VALUE rb_cTAFunction;
